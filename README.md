@@ -16,8 +16,8 @@ Card by Searle https://opengameart.org/content/card-template
 
 Followup Questions:
 
-  * How would your code change if weapons had range?-
-  Depending on how the it would be desired for range to be implemented, range could have a multitude of changes on the code. In the case of this project, x and y coordinates are never taken into account, and I imagine Range would ultimately affect the attack time and accuracy of an attack.
+  * How would your code change if weapons had range?
+  Depending on how it would be desired for range to be implemented, range could have a multitude of changes on the code. In the case of this project, x and y coordinates are never taken into account, and I imagine Range would ultimately affect the attack time and accuracy of an attack.
   
   * How would your code change if weapons had special effects, like the ability to make targets catch fire? I would create status effect data type, and allow weapons to have this effect by an id. When a character make's its attack, it would add the status effect to the targeted character, where it would be managed.
   
