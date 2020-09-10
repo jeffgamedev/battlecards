@@ -1,0 +1,104 @@
+{
+    "Characters":[
+        {
+            "Name": "Jeffario",
+            "Health": 84,
+            "Portrait": 0
+        },
+        {
+            "Name": "Maksim",
+            "Health": 100,
+            "Portrait": 1
+        },
+        {
+            "Name": "Viviane",
+            "Health": 59,
+            "Portrait": 2
+        },
+        {
+            "Name": "Hunter",
+            "Health": 45,
+            "Portrait": 3
+        },
+        {
+            "Name": "Sijara",
+            "Health": 64,
+            "Portrait": 4
+        },
+        {
+            "Name": "Brok",
+            "Health": 96,
+            "Portrait": 5
+        },
+        {
+            "Name": "Sabin",
+            "Health": 89,
+            "Portrait": 6
+        },
+        {
+            "Name": "Mackenzie",
+            "Health": 108,
+            "Portrait": 7
+        },
+        {
+            "Name": "Frederick",
+            "Health": 85,
+            "Portrait": 8
+        },
+        {
+            "Name": "Sidney",
+            "Health": 58,
+            "Portrait": 9
+        },
+        {
+            "Name": "Farris",
+            "Health": 99,
+            "Portrait": 10
+        },
+        {
+            "Name": "Beowulf",
+            "Health": 130,
+            "Portrait": 11
+        },
+        {
+            "Name": "Alden",
+            "Health": 69,
+            "Portrait": 12
+        },
+        {
+            "Name": "Harrison",
+            "Health": 33,
+            "Portrait": 13
+        },
+        {
+            "Name": "Sigwold",
+            "Health": 74,
+            "Portrait": 0
+        },
+        {
+            "Name": "Barnaby",
+            "Health": 54,
+            "Portrait": 1
+        },
+        {
+            "Name": "Lareux",
+            "Health": 86,
+            "Portrait": 2
+        },
+        {
+            "Name": "Uldum",
+            "Health": 43,
+            "Portrait": 3
+        },
+        {
+            "Name": "Paltene",
+            "Health": 111,
+            "Portrait": 4
+        },
+        {
+            "Name": "Eric",
+            "Health": 122,
+            "Portrait": 5
+        }
+    ]
+}

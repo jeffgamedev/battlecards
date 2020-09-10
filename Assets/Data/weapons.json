@@ -1,0 +1,123 @@
+{
+    "Weapons":[
+        {
+            "Name": "Sword",
+            "AttackSpeed": 2,
+            "Damage": 3,
+            "SpriteIndex": 14,
+            "Range": 1
+        },
+        {
+            "Name": "Hammer",
+            "AttackSpeed": 4.1,
+            "Damage": 3.2,
+            "SpriteIndex": 0,
+            "Range": 1
+        },
+        {
+            "Name": "Crossbow",
+            "AttackSpeed": 3,
+            "Damage": 2,
+            "SpriteIndex": 16,
+            "Range": 1
+        },
+        {
+            "Name": "Sling",
+            "AttackSpeed": 4,
+            "Damage": 4,
+            "SpriteIndex": 17,
+            "Range": 1
+        },
+        {
+            "Name": "Trident",
+            "AttackSpeed": 4,
+            "Damage": 5,
+            "SpriteIndex": 3,
+            "Range": 1
+        },
+        {
+            "Name": "Dagger",
+            "AttackSpeed": 1,
+            "Damage": 1,
+            "SpriteIndex": 12,
+            "Range": 1
+        },
+        {
+            "Name": "Ballista",
+            "AttackSpeed": 8,
+            "Damage": 8,
+            "SpriteIndex": 15,
+            "Range": 1
+        },
+        {
+            "Name": "Broadsword",
+            "AttackSpeed": 4,
+            "Damage": 4,
+            "SpriteIndex": 11,
+            "Range": 1
+        },
+        {
+            "Name": "Mace",
+            "AttackSpeed": 3,
+            "Damage": 3,
+            "SpriteIndex": 1,
+            "Range": 1
+        },
+        {
+            "Name": "Baton",
+            "AttackSpeed": 2,
+            "Damage": 2,
+            "SpriteIndex": 6,
+            "Range": 1
+        },
+        {
+            "Name": "Nunchuck",
+            "AttackSpeed": 1,
+            "Damage": 1,
+            "SpriteIndex": 8,
+            "Range": 1
+        },
+        {
+            "Name": "Poledart",
+            "AttackSpeed": 5,
+            "Damage": 7,
+            "SpriteIndex": 4,
+            "Range": 1
+        },
+        {
+            "Name": "Longbow",
+            "AttackSpeed": 5,
+            "Damage": 6,
+            "SpriteIndex": 15,
+            "Range": 1
+        },
+        {
+            "Name": "Staff",
+            "AttackSpeed": 3.5,
+            "Damage": 2.5,
+            "SpriteIndex": 5,
+            "Range": 1
+        },
+        {
+            "Name": "Shortsword",
+            "AttackSpeed": 2.8,
+            "Damage": 2.3,
+            "SpriteIndex": 13,
+            "Range": 1
+        },
+        {
+            "Name": "Pike",
+            "AttackSpeed": 4,
+            "Damage": 4.6,
+            "SpriteIndex": 4,
+            "Range": 1
+        },
+        {
+            "Name": "Stave",
+            "AttackSpeed": 4,
+            "Damage": 4.3,
+            "SpriteIndex": 7,
+            "Range": 1
+        }
+    ]
+}
